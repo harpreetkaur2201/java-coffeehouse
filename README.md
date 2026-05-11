@@ -3,12 +3,9 @@
 A modern, responsive Coffee House website built using HTML, CSS, and JavaScript.
 This project showcases my front-end development skills, focusing on clean UI design, responsive layouts, and user-friendly navigation.
 
-## 🌐 Live Demo
+## 🚀 Live Demo [View Java CoffeeHouse](https://harpreetkaur2201.github.io/java-coffeehouse/)
 
-Explore the live version of the project here:  
-[View Java CoffeeHouse](https://harpreetkaur2201.github.io/java-coffeehouse/)
-
-## Home Page
+## 🏠 Home Page
 
 This is the landing page of the website, designed to create a warm and welcoming first impression. It highlights the brand identity of Java CoffeeHouse with a clean layout, visual hierarchy, and smooth navigation.
 
