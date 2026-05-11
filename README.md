@@ -1,5 +1,4 @@
-<img width="1873" height="733" alt="Screenshot 2026-05-11 131327" src="https://github.com/user-attachments/assets/382185da-51c0-4029-907d-8e4827978713" />
-# ☕ Java CoffeeHouse – Front-End Web Project
+## ☕ Java CoffeeHouse – Front-End Web Project
 
 A modern, responsive Coffee House website built using HTML, CSS, and JavaScript.
 This project showcases my front-end development skills, focusing on clean UI design, responsive layouts, and user-friendly navigation.
@@ -20,9 +19,7 @@ This is the landing page of the website, designed to create a warm and welcoming
 
 The menu page displays coffee and food items in a structured and easy-to-read format. It is designed to mimic a real café menu experience, helping users quickly browse available items.
 
-<img width="1740" height="947" alt="Menu Page Screenshot" src="https://github.com/user-attachments/assets/52669fa1-3f6e-480b-836b-bf74f7313cad" />
-<img width="1740" height="947" alt="Screenshot 2026-05-11 131412" src="https://github.com/user-attachments/assets/52669fa1-3f6e-480b-836b-bf74f7313cad" />
-
+<img width="1622" height="892" alt="Screenshot 2026-05-11 131412" src="https://github.com/user-attachments/assets/f4513c38-e3b6-46b8-91d4-aad8b95db1e2" />
 
 ## 📌 Project Overview
 
